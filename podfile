@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+pod 'AMap2DMap'
+pod 'Masonry'
+pod 'AMapSearch'
+pod 'JTCalendar', '~> 2.1.4'

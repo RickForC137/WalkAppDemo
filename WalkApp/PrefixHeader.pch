@@ -1,0 +1,8 @@
+// 屏幕宽高
+#define LFScreenWidth [UIScreen mainScreen].bounds.size.width
+#define LFScreenHeight [UIScreen mainScreen].bounds.size.height
+// 适配
+#import "Masonry.h"
+
+#define NavHeight 64
+#define TabBarHeight 49

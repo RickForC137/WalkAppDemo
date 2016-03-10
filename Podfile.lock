@@ -1,0 +1,19 @@
+PODS:
+  - AMap2DMap (3.3.0)
+  - AMapSearch (3.2.0)
+  - JTCalendar (2.1.4)
+  - Masonry (0.6.4)
+
+DEPENDENCIES:
+  - AMap2DMap
+  - AMapSearch
+  - JTCalendar (~> 2.1.4)
+  - Masonry
+
+SPEC CHECKSUMS:
+  AMap2DMap: e53461cdc345375e514579db17dbd721ff9ed9eb
+  AMapSearch: a885f0702578a441a22cb66fa74f8918c6d19e6f
+  JTCalendar: 9b1352c7ec41cc26b19c189d6608ba48060a53d9
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+
+COCOAPODS: 0.39.0
